@@ -128,4 +128,6 @@ else:
 # if __name__ == "__main__":
 #     remote = RemoteControl()
 #     print(remote.change_channel("mmtv"))
-#     print(remote.adjust_valume(40))
+#     print(remote.adjust_valume(40)
+with open("style.css", 'w') as file:
+    file.write("welcome to my css")
